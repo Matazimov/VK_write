@@ -11,6 +11,7 @@ from config import message, token, v
 cls()
 
 print("[cyan]Начинаю отправлять...[/cyan]")
+print("[bold][cyan]t.me/matazimov_official[/cyan][/bold]")
 
 
 while True:
